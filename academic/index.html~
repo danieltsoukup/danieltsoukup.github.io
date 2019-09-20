@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>Homepage of Daniel T. Soukup</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<table id="header" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td id="logo">
+<h1>Daniel T. <span> Soukup</span></h1>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="menu" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>
+<ul>
+<li class="first active"><a href="index.html">Homepage</a></li>
+<li><a href="pub.xhtml">Publications and
+talks</a></li>
+<li><a href="teach.xhtml">Teaching</a></li>
+<li><a target="_blank" href="dsoukup_cv.pdf">Curriculum
+Vitae</a></li>
+<li><a href="contact.xhtml">Contact
+information</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="wrapper" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>
+<table style="" id="wide-content" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td id="box1" class="box-style">
+<h2>Welcome to my website!<img style="float: right; width: 300px;" alt="img" src="talk_pic.jpg" hspace="80" vspace="20" /></h2>
+<p><br />
+</p>
+<div style="text-align: justify;">&nbsp;&nbsp;
+<blockquote type="cite">My name is Daniel T.
+Soukup. I finished my PhD in 2015 at
+the
+Mathematics Department of the University of Toronto. Currently, I am
+working at the Kurt Gödel Research Center in Mathematical Logic
+(Universität Wien) as a postdoc researcher.</blockquote>
+<br />
+<br />
+
+</div>
+<p></p>
+<div style="text-align: justify;">
+<blockquote type="cite">Hopefully
+you'll find the most important academic informations about me on this
+website.
+Feel free to contact me in case you got interested in any of the things
+I work with!</blockquote>
+</div>
+<p style="text-align: justify;"><br />
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="page" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr valign="top">
+<td>
+<table id="content" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td id="box2" class="box-style">
+<h2>What do I do these days?</h2>
+<div style="text-align: justify;">
+<ul reversed="reversed">
+<br />
+<br />
+
+In my research, I study problems that lie on the border of finite and infinite combinatorics, and logic, with a focus on chromatic number and Ramsey-type problems in graph theory and independence results in logic and set theory.
+<br>
+<br />
+
+In plain words, I am interested in understanding  large, seemingly random and chaotic abstract mathematical objects by looking at the collection of well-behaving substructures with certain properties. How large can these nice substructures be? Can a small number of them cover? My work is motivated by still open classical problems of Erdős and Hajnal from the 1960s, as well as recent research by Komjáth, Thomasse, Thomassen, Shelah and Todorcevic among others. 
+<br>
+<br />
+
+You can find a video of my recent talk at the 6th European Set Theory Conference  <a href="http://video.renyi.hu/videos/6thestc_17_07_06_morning/245" target="_blank">here</a>, just jump to 2:44.
+
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table id="sidebar" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td id="box3" class="box-style">
+<!-- start feedwind code -->
+<script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script>
+<script type="text/javascript">(function() {var params = {rssmikle_url: "http://settheory.mathtalks.org/",rssmikle_frame_width: "300",rssmikle_frame_height: "400",frame_height_by_article: "0",rssmikle_target: "_blank",rssmikle_font: "Arial, Helvetica, sans-serif",rssmikle_font_size: "12",rssmikle_border: "off",responsive: "off",rssmikle_css_url: "",text_align: "left",text_align2: "left",corner: "off",scrollbar: "on",autoscroll: "on",scrolldirection: "up",scrollstep: "5",mcspeed: "20",sort: "Off",rssmikle_title: "on",rssmikle_title_sentence: "",rssmikle_title_link: "",rssmikle_title_bgcolor: "#9ACD32",rssmikle_title_color: "#FFFFFF",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#FFFFFF",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#6E6E6E",rssmikle_item_border_bottom: "on",rssmikle_item_description: "on",item_link: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#666666",rssmikle_item_date: "gl1",rssmikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M %p",item_description_style: "text",item_thumbnail: "full",item_thumbnail_selection: "auto",article_num: "15",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();</script>
+<div style="font-size: 10px; text-align: center; width: 300px;"><a href="http://feed.mikle.com/" target="_blank" style="color: rgb(204, 204, 204);">RSS Feed Widget</a><!--Please display the above link in your web page according to Terms of Service.--></div>
+<!-- end feedwind code --></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="footer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<p><a href="index.html" class="active">Homepage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="pub.xhtml">Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp; <a href="teach.xhtml">Teaching</a>
+&nbsp;&nbsp;|&nbsp;&nbsp; <a href="dsoukup_cv.pdf">CV</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contact.xhtml">Contact
+Info</a></p>
+<p>Design by <a href="http://www.webpagetemplates.org/">Free
+Web Page Templates</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>

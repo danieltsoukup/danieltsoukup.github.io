@@ -1,0 +1,200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>MAT136</title>
+
+<link href="./stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<!-- saved from url=(0041)http://www.math.toronto.edu/ivan/135.html -->
+<center>
+<h1> MAT136: Calculus 1 (B) <br>
+University of Toronto - Fall 2014
+</h1>
+<br>
+</center>
+<p> This is the official homepage for MAT136 at the University of
+Toronto for the fall 2014 term. All course information other than
+grades will be posted here.
+</p>
+<ul>
+<li> <a href="#announcements">Announcements</a>
+</li>
+<li> <a href="#courseinfo">Course Information</a>
+</li>
+<li> <a href="#resources">Resources</a></li>
+<li> <a href="#tests">Tests</a></li>
+</ul>
+<hr height="2px" colour="E5E5E5" width="90%">
+<h2 id="announcements"> Announcements
+</h2>
+<ul>
+<li> <b>Solutions for Quiz 3</b> can be
+downloaded from <a href="#resources">Resources</a>.
+</li>
+<br>
+
+<li> <b>Make up Term Test information</b>: The make-up test will take place <b> November 11th, 10:00-12:00, EX 320</b>. You are <b>eligible to write</b> the make-up test if: 1. You <b>did not write the term test</b>, and 2. You have <b>received an email from the course coordinator</b> confirming that you can write the make-up test (either you had a double-conflict with the term test, or missed the term test due to illness and submitted a valid medical note).
+</li>
+<br>
+<li> Please find the <b>solutions for the term test</b> under <a href="#tests">Tests</a>. We will hand back the marked
+papers on the lectures next week.
+</li>
+<br>
+<li> <b>Extra office hours before the Term Test</b>:<br>
+Monday October 20: 10-11am BA 6283, 2-3pm BA 6283.<br>
+Tuesday October 21: 2-6pm SS 1071.<br>
+The office hours of Daniel Soukup on Wednesday October 22 are
+<b>cancelled</b>.
+</li>
+<br>
+<li> <b>Solutions for Quiz 1 and 2</b> can be
+downloaded from <a href="#resources">Resources</a>.
+</li>
+<br>
+<li> <b>Additional information on the Term Test</b>:
+the test will cover the material up to and including Chapter 7.5
+(Strategies for Integration). The exam will be 90 minutes long and will
+contain questions similar to the quizzes (see <a href="#resources">Resources</a>)
+and text book problems from the relevant sections. </li>
+<br>
+<li> <font size="4"><b>The Term Test will
+take place next Wednesday,
+October 22 at BI (Banting Institute) Room 131, 6.10-7.40pm.</b></font><br>
+The
+early sitting is at <b>BA 1200, 4.10-5.40pm </b> the same
+day
+however you need to contact the course coordinator if you wish to
+attend this sitting (and you need to have a valid reason, e.g. time
+conflict).
+</li>
+<br>
+<li> The office hours of Daniel Rowe will change to <b>Fridays
+HU 1018, 10-12am</b> starting October 17.
+</li>
+<br>
+<li> Each quiz will be accessible under <a href="#resources">Resources</a>.
+Check back weekly
+and use these as practice problems as well.
+</li>
+<br>
+<li><b>The office hours of Daniel Rowe are cancelled this
+Friday, Oct 3.</b> </li>
+<br>
+<li>This is a reminder that <b>you will be writing Quiz
+1 this
+coming week</b>. Make sure you are enrolled in a tutorial section
+and that
+you write the quiz at that particular tutorial. The quiz will consist
+of three, non multiple choice questions and will be written in the last
+15 minutes of the tutorial; your TAs will aim at explaining similar
+problems in the first half of the tutorial.</li>
+<br>
+<li> The <b> syllabus</b> is accessible under <a href="#resources">Resources</a>. Please read it
+carefully and familiarize yourself with the course schedule on the last
+page.</li>
+<br>
+<li> Lectures start on September 8. </li>
+</ul>
+<hr height="2px" colour="E5E5E5" width="90%">
+<h2 id="courseinfo"> Course Information
+</h2>
+<ul>
+<li> The course coordinator is <b> Daniel Rowe </b>
+(drowe [at] math [dot] toronto [dot] edu). </li>
+<ul>
+<li> His lecture section is <b>L0101</b>, which
+meets <b>MWF 9</b> in <b> SS1087 </b>. </li>
+<li> His office hours are on <b>Friday 10-12am</b>,
+in <b>
+HU1018</b>. </li>
+</ul>
+<br>
+<li> The other lecturer is <b> Daniel Soukup</b>
+(daniel [dot] soukup [at] mail [dot] utoronto [dot] ca).
+<ul>
+<li> His lecture section is <b>L5101</b>,
+which meets <b>R 6-9</b> in <b>MP202</b>. </li>
+<li> His office hours are <b>W3-5</b>, in <b>BA6180</b>
+). </li>
+</ul>
+<br>
+</li>
+<li> The course has three TAs who run tutorials, mark term work
+and give office hours (before the term test and final exam): </li>
+<ul>
+<li> <b>Ioannis Angelopoulos</b> (yannis [at]
+math [dot] toronto [dot] edu), </li>
+<li> <b>Beatriz Navarro Lameda</b> (beatriz
+[dot] navarrolameda [at] mail [dot] utoronto [dot] ca), </li>
+<li> <b>Andrew Stewart</b> (andrewg [dot]
+stewart [at] utoronto
+[dot] ca). </li>
+</ul>
+<br>
+<li>There are four tutorials (which start on the week of
+September 22), as follows:</li>
+<ul>
+<li><b>T0101</b>, which meets <b>M3</b>
+in <b>SS2110</b> with Ioannis Angelopoulos.</li>
+<li><b>T0201</b>, which meets <b>R4</b>
+in <b>MP118</b> with Beatriz Navarro Lameda.</li>
+<li><b>T5101</b>, which meets <b>T5</b>
+in <b>MP137</b> with Andrew Stewart.</li>
+<li><b>T5201</b>, which meets <b>R5</b>
+in <b>MP137</b> with Beatriz Navarro Lameda.</li>
+</ul>
+<br>
+</ul>
+<hr height="2px" colour="E5E5E5" width="90%">
+<h2 id="resources"> Resources
+</h2>
+<ul>
+<li> <b>Solutions for Quiz 3</b> are <a href="quiz/quiz3solutions.pdf" target="_blank">here</a>.
+</li>
+<br>
+
+<li> <b>Quiz 3</b>: <a href="quiz/quiz_3_T0101.pdf" target="_blank">T0101</a>,
+<a href="quiz/quiz_3_T0201.pdf" target="_blank">T0201</a>,
+<a href="quiz/quiz_3_T5101.pdf" target="_blank">T5101</a>,
+<a href="quiz/quiz_3_T5201.pdf" target="_blank">T5201</a>.</li>
+<br>
+
+<li> <b>Solutions for Quiz 1 and 2</b> are <a href="quiz/quiz1_2_solutions.pdf" target="_blank">here</a>.
+</li>
+<br>
+<li> <b>Quiz 2</b>: <a href="quiz/quiz_2_T0101.pdf" target="_blank">T0101</a>,
+<a href="quiz/quiz_2_T0201.pdf" target="_blank">T0201</a>,
+<a href="quiz/quiz_2_T5101.pdf" target="_blank">T5101</a>,
+<a href="quiz/quiz_2_T5201.pdf" target="_blank">T5201</a>.</li>
+<br>
+<li> <b>Quiz 1</b>: <a href="quiz/quiz_1_T0101.pdf" target="_blank">T0101</a>,
+<a href="quiz/quiz_1_T0201.pdf" target="_blank">T0201</a>,
+<a href="quiz/quiz_1_T5101.pdf" target="_blank">T5101</a>,
+<a href="quiz/quiz_1_T5201.pdf" target="_blank">T5201</a>.</li>
+<br>
+<li> <b>Syllabus</b>: <a href="MAT136_syllabus.pdf" target="_blank">download
+here</a>.</li>
+</ul>
+<hr height="2px" colour="E5E5E5" width="90%">
+<h2 id="tests"> Midterm Test and Solutions
+</h2>
+<ul>
+<li>
+The solutions for the term test can be <a href="test_solutions.pdf" target="_blank">downloaded here</a>.
+</li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</body></html>

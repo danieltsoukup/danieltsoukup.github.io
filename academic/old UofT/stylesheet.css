@@ -1,0 +1,17 @@
+body {
+	background-color: eeeeee;
+	font-family: arial, helvetica, arial, sans-serif;
+	font-size: 90%;
+}
+a:link {
+	text-decoration:none; 
+	color: #5882FA;
+}
+a:visited { 
+	text-decoration:none;
+	color:purple;
+}
+a:hover { 
+	text-decoration:underline; 
+}
+		

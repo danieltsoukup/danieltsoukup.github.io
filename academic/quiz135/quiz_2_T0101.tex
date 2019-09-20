@@ -1,0 +1,168 @@
+\documentclass[10pt]{article}
+
+\usepackage{fullpage,graphicx}
+
+\usepackage{geometry}
+ \geometry{textheight = 26 cm}
+\usepackage[T1]{fontenc}
+\usepackage{mathrsfs,amssymb,amsthm,amsmath,verbatim}
+\usepackage[usenames]{color}
+\usepackage{t1enc}
+\usepackage{enumerate}
+\usepackage{multicol}
+\setlength{\columnsep}{2 cm}
+\newcommand{\ds}[1]{\displaystyle{#1}}
+\pagenumbering{gobble}
+
+\newcommand{\diff}{\frac{d}{dx}}
+
+
+%opening
+\title{MAT135H1F -- Quiz 2}
+\author{TUT0101}
+\date{May 28 , 2015}
+
+
+\newtheorem{quiz}{Question}
+
+\newcommand{\real}{\mathbb{R}}
+
+\begin{document}
+\maketitle
+
+FAMILY NAME: ............................................. \hspace{1 cm} GIVEN NAME: ............................... \\
+
+
+
+Mark your lecture and tutorial sections: \hspace{1 cm}  STUDENT ID: ............................................. 
+\begin{center}
+
+
+\begin{tabular}{*{6}{|c}|} \hline
+L0101 & L5101 & T0101 & T0201 & T5101 & T5102 \\ \hline
+& & & & & \\  \hline
+\end{tabular}
+\end{center}
+
+You have 25 minutes to solve the problems below! Each problem is worth 1 point. Good luck!
+
+\begin{comment}
+You have 10 minutes to record your solutions in the boxes below! 
+
+\begin{center}
+\begin{tabular}{*{5}{|c}|} \hline
+ Question 1. &  Question 2. & Question 3. &  Question 4. & Question 5.  \\ \hline
+&&&& \\ \hline
+\end{tabular}
+\end{center}
+\end{comment}
+
+
+\vspace{0.5 cm}
+
+% 2 review and 2 easy limit problems, 1 squeeze.
+ \begin{multicols}{2}
+
+\begin{quiz} What is $\lim\limits_{x\to 0} \frac{\sin (x)}{2x}$?
+\end{quiz}
+\begin {enumerate}[(a)]
+\item $\frac{1}{2}$
+\item 0
+\item Does not exist.
+\item $\pi$
+\end{enumerate}
+\vspace{0.5 cm}
+
+Answer: (a) $\frac{1}{2}$. Pulling out a factor of $\frac{1}{2}$ gives $\lim\limits_{x\to 0} \frac{\sin (x)}{2x} = \frac{1}{2}\lim\limits_{x\to 0} \frac{\sin (x)}{x} = \frac{1}{2}$.
+
+\vspace{5mm}
+
+\begin{quiz} Let $f(x) = \frac{e^x}{x^3}$. What is $f'(2)$?
+\end{quiz}
+\begin {enumerate}[(a)]
+\item $-\frac{e^2}{16}$
+\item $0$
+\item $\frac{e^2}{8}$
+\item $-\frac{ \ln2}{16}$
+\end{enumerate}
+\vspace{0.5 cm}
+
+Answer: (a) $-\frac{e^2}{16}$. Differentiating $f(x)$ with the quotient rule gives $f'(x) =\frac{x^3e^x - 3x^2e^x}{x^6} = \frac{e^x(x - 3)}{x^4}$ so $f'(2) = -\frac{e^2}{16}$.
+
+\vfill
+\columnbreak
+
+\begin{quiz}Let $f(x) = \frac{1}{2} e^x - 3x$. The equation of the tangent line to the graph of $f(x)$ at $x = \ln 6$ is:
+\end{quiz}
+\begin {enumerate}[(a)]
+\item $y= e^6 x + 3$
+\item $y = -x + 3$
+\item $y = 0$
+\item $y = 3(1-\ln 6)$
+\end{enumerate}
+
+\vspace{5mm}
+
+Answer: (d) $y = 3(1 - \ln6)$. We start by computing $f'(\ln6)$ which is the slope of the desired tangent line. We have $f'(x) = \frac{1}{2}e^x - 3$ so $f'(\ln6) = 0$. Thus the tangent line is horizontal with equation $y = b$ for some constant $b$. We know $(\ln6, f(\ln6))$ is a point on the line so we conclude $y = f(\ln6) = \frac{1}{2}e^{\ln6} - 3\ln6 = 3(1 - \ln6)$.
+
+\vspace{5mm}
+
+\begin{quiz} What is the 8th derivative of $x+x^6-x^7$?
+\end{quiz}
+\begin {enumerate}[(a)]
+\item $7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1= 5040$
+\item $1$
+\item $0$
+\item None of the above.
+\end{enumerate}
+\vspace{0.5 cm}
+
+Answer: (c) 0. We know that the derivative of a sum is equal to the sum of derivatives. This means that we may consider each term of $x + x^6 - x^7$ independently. Differentiating each monomial term once reduces the power of the monomial by one. Thus, differentiating $n$ times a monomial $x^n$ reduces the power by $n$ and leaves us with a constant. Then, differentiating once more gives 0. Namely, differentiating a monomial more times than the degree gives 0. For example $\frac{d^7}{dx^7}x^7 = 7!$ so $\frac{d^8}{dx^8}x^7 = 0$. Therefore, we conclude that $\frac{d^8}{dx^8}(x + x^6 - x^7) = 0$.  
+
+\vspace{5mm}
+
+\begin{quiz} What is $\frac{d}{dx} \cos^2(x)$ at $x=\pi/4$?
+\end{quiz}
+\begin {enumerate}[(a)]
+\item $0$
+\item $1$
+\item $-1$
+\item $\frac{1}{\sqrt{2}}$
+\end{enumerate}
+
+\vspace{0.5 cm}
+
+Answer: (c) $-1$. We differentiate using the chain rule to obtain $\frac{d}{dx}\cos^2(x) = 2\cos(x)(-\sin(x)) = -2\cos(x)\sin(x)$. Thus, evaluating at $\frac{\pi}{4}$ gives $-2\cos(\frac{\pi}{4})\sin(\frac{\pi}{4}) = -1$.
+
+\vspace{5mm}
+
+\begin{quiz} Sketch the graph of an everywhere continuous function that is not differentiable at $x = 2$.
+\end{quiz}
+\vspace{0.5 cm}
+
+Answer: A sharp point on a graph is an example of an instance where the left and right limits exist and and equal, the function is defined but there is no derivative. We can draw a graph with a sharp point at $x=2$.
+
+\includegraphics[width=0.5\textwidth]{blank}
+
+\setlength{\unitlength}{2cm}
+\begin{picture}(1,1)
+\put(0.05,3){\line(3,-1){2.577}}
+\put(2.63,2.15){\line(1,1){1.09}}
+
+\end{picture}
+
+\end{multicols}
+
+
+
+\end{document}
+
+
+\begin{quiz}
+\end{quiz}
+\begin {enumerate}[(a)]
+\item
+\item
+\item
+\item
+\end{enumerate}
